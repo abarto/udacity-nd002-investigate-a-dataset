@@ -13,3 +13,4 @@ After going through all of the available datasets, I've chosen the "TMDb Movie D
 * [Investigate_a_Dataset.ipynb](Investigate_a_Dataset.ipynb): A Jupyter Notebook with the project submission.
 * [Investigate_a_Dataset.html](Investigate_a_Dataset.html): HTML export of ``Investigate_a_Dataset.ipynb``.
 * [Investigate_a_Dataset.html](Investigate_a_Dataset.pdf): PDF export of ``Investigate_a_Dataset.ipynb``.
+* [utils.py](utils.py): A Python module with utility functions.
